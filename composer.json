@@ -1,5 +1,5 @@
 {
-    "name": "league/flysystem-cached-adapter",
+    "name": "nao-pon/flysystem-cached-adapter",
     "description": "An adapter decorator to enable meta-data caching.",
     "autoload": {
         "psr-4": {
@@ -7,7 +7,7 @@
         }
     },
     "require": {
-        "league/flysystem": "~1.0"
+        "nao-pon/flysystem": "dev-pilot"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.1",
